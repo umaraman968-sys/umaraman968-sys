@@ -1,10 +1,10 @@
-Hi, I’m Uma Mageswari 👋
+#Hi, I’m Uma Mageswari 👋
 
 🎨 Junior UI/UX Designer based in France
 
 I design intuitive, accessible, and user-centered digital experiences through UX research, wireframing, prototyping, and usability evaluation.
 
-About Me
+##About Me
 
 * 🇫🇷 Based in Pontoise, France
 * 🎯 Seeking Junior UI Designer, Junior UX Designer, and Product Designer opportunities
@@ -12,7 +12,7 @@ About Me
 * 🎓 Google UX Design Certified
 * 🔍 Passionate about accessibility, user research, and problem-solving
 
-Skills
+##Skills
 
 UX Design
 
@@ -38,7 +38,7 @@ Tools
 * Adobe Photoshop
 * Adobe Illustrator
 
-Featured Projects
+##Featured Projects
 
 CAF Housing Aid Redesign
 
@@ -48,7 +48,7 @@ Habit Tracker App
 
 Designed a focused habit-building experience using behavioral psychology and progressive disclosure principles.
 
-Connect With Me
+##Connect With Me
 
 📧 Email: umaraman968@gmail.com
 
