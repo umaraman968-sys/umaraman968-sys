@@ -1,16 +1,59 @@
-## Hi there 👋
+Hi, I’m Uma Mageswari 👋
 
-<!--
-**umaraman968-sys/umaraman968-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Junior UI/UX Designer based in France
 
-Here are some ideas to get you started:
+I design intuitive, accessible, and user-centered digital experiences through UX research, wireframing, prototyping, and usability evaluation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+* 🇫🇷 Based in Pontoise, France
+* 🎯 Seeking Junior UI Designer, Junior UX Designer, and Product Designer opportunities
+* 🌍 Open to Remote and France-based roles
+* 🎓 Google UX Design Certified
+* 🔍 Passionate about accessibility, user research, and problem-solving
+
+Skills
+
+UX Design
+
+* User Research
+* User Personas
+* Journey Mapping
+* Wireframing
+* Information Architecture
+* Usability Testing
+* Accessibility
+
+UI Design
+
+* High-Fidelity Mockups
+* Design Systems
+* Interaction Design
+* Mobile App Design
+* Web Design
+
+Tools
+
+* Figma
+* Adobe Photoshop
+* Adobe Illustrator
+
+Featured Projects
+
+CAF Housing Aid Redesign
+
+Redesigned the housing aid application experience for first-time and international users in France.
+
+Habit Tracker App
+
+Designed a focused habit-building experience using behavioral psychology and progressive disclosure principles.
+
+Connect With Me
+
+📧 Email: umaraman968@gmail.com
+
+💼 LinkedIn:
+https://linkedin.com/in/uma-mageswari968-uiux
+
+🎨 Behance:
+https://behance.net/umaraman
